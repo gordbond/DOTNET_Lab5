@@ -1,0 +1,10 @@
+C:\Users\gordbond\source\repos\Lab5\Lab5A\bin\Debug\Lab5A.exe.config
+C:\Users\gordbond\source\repos\Lab5\Lab5A\bin\Debug\Lab5A.exe
+C:\Users\gordbond\source\repos\Lab5\Lab5A\bin\Debug\Lab5A.pdb
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.csprojAssemblyReference.cache
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.Lab5AForm.resources
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.Properties.Resources.resources
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.csproj.GenerateResource.cache
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.csproj.CoreCompileInputs.cache
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.exe
+C:\Users\gordbond\source\repos\Lab5\Lab5A\obj\Debug\Lab5A.pdb

@@ -1,0 +1,11 @@
+C:\Users\gordbond\source\repos\Lab5\stringTests\bin\Debug\netcoreapp2.1\stringTests.deps.json
+C:\Users\gordbond\source\repos\Lab5\stringTests\bin\Debug\netcoreapp2.1\stringTests.runtimeconfig.json
+C:\Users\gordbond\source\repos\Lab5\stringTests\bin\Debug\netcoreapp2.1\stringTests.runtimeconfig.dev.json
+C:\Users\gordbond\source\repos\Lab5\stringTests\bin\Debug\netcoreapp2.1\stringTests.dll
+C:\Users\gordbond\source\repos\Lab5\stringTests\bin\Debug\netcoreapp2.1\stringTests.pdb
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.csprojAssemblyReference.cache
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.csproj.CoreCompileInputs.cache
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.AssemblyInfoInputs.cache
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.AssemblyInfo.cs
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.dll
+C:\Users\gordbond\source\repos\Lab5\stringTests\obj\Debug\netcoreapp2.1\stringTests.pdb
